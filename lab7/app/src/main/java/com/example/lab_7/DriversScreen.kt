@@ -57,7 +57,7 @@ fun DriversScreen(navController: NavController) {
 
         Spacer(modifier = Modifier.height(16.dp))
 
-        // tex field and button to add drivers
+        // text field and button to add drivers
         Row(
             modifier = Modifier.fillMaxWidth(),
             horizontalArrangement = Arrangement.SpaceBetween
